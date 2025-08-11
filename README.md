@@ -22,6 +22,7 @@ Generates randomized phonemes, words, and static/noise effects with optional DR6
 ---
 
 ## 🖼️ Screenshots
+<img width="681" height="847" alt="image" src="https://github.com/user-attachments/assets/69a321b7-94ad-49b6-aad8-7acc8202e929" />
 
 
 ---
