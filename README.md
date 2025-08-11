@@ -2,10 +2,6 @@
 
 An interactive **paranormal audio simulation app** built with **React**, **Tone.js**, and **Tailwind CSS**.  
 Generates randomized phonemes, words, and static/noise effects with optional DR60 mode, motion sensor control, and AI-generated speech.
-
-> ⚠️ **Disclaimer:** This is an **audio simulation for entertainment purposes only**.  
-> It is **not** a tool for real paranormal communication.
-
 ---
 
 ## ✨ Features
